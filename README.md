@@ -22,7 +22,7 @@ API endpoints https://platform.openai.com/docs/api-reference/introduction
 * /v1/fine-tunes/{fine_tune_id}/cancel - cancel fine tune job
 * /v1/fine-tunes/{fine_tune_id}/events - status of fine tuning
 * /v1/models/{model} - DELETE - Delete LoRA
-* /v1/moderations - if there's anything that should be regulated it's chatgpt's 
+* /v1/moderations - if there's anything that should be regulated it's chatgpt's cultural influence. I heard the next Civ game is getting it as a cultural victory condition :|
 * /v1/engines - deprecated
 
 
