@@ -24,3 +24,6 @@ API endpoints https://platform.openai.com/docs/api-reference/introduction
 * /v1/models/{model} - DELETE - Delete LoRA
 * /v1/moderations - if there's anything that should be regulated it's chatgpt's 
 * /v1/engines - deprecated
+
+
+    conda create -n largelanguagemodelmodelengine python=3.10
