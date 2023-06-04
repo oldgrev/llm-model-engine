@@ -1,5 +1,5 @@
 # llm-model-engine
-model engine described by coco-LoRA
+model engine described by coco-LoRA https://github.com/oldgrev/coco-LoRA
 
 This is a python API service that handles the LLM model engine. *yes the large language model model engine*
 
@@ -27,3 +27,4 @@ API endpoints https://platform.openai.com/docs/api-reference/introduction
 
 
     conda create -n largelanguagemodelmodelengine python=3.10
+    conda activate largelanguagemodelmodelengine
