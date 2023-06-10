@@ -7,6 +7,8 @@ This is not intended to function beyond proving the concept of dynamic model loa
 
 Start off by imitating the ChatGPT API endpoints. In a more perfect world, there's an API bridge that will translate from anything to anything. *why make an extension to emulate claude/chatgpt/koboldai if a separate bridge could do it?* I'm sure there's pro's and cons.
 
+*currently working on the technical blocker of merging a LoRA directly into another LoRA in the loratolora repo*
+
 API endpoints https://platform.openai.com/docs/api-reference/introduction
 * /v1/chat/completions - Use for generation, completions, inference
 * /v1/models - List models
